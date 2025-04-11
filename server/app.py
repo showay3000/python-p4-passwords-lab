@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/ python
 
 from flask import request, session
 from flask_restful import Resource
